@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require './lib/bernard'
+
+Bernard::CLI.start(ARGV)
